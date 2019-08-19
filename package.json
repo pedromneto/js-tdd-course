@@ -1,0 +1,23 @@
+{
+  "name": "js-tdd-course",
+  "version": "1.0.0",
+  "description": "JS with TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedromneto/js-tdd-course.git"
+  },
+  "keywords": [
+    "JS",
+    "TDD"
+  ],
+  "author": "Pedro Marques M. Neto <pedro.neto@outlook.com> (https://pmneto.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pedromneto/js-tdd-course/issues"
+  },
+  "homepage": "https://github.com/pedromneto/js-tdd-course#readme"
+}
